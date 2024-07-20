@@ -108,4 +108,4 @@ If you need help with anything pertaining to the app, reach us at lifeMadeEZ@gma
 
  # LifeMadeEZ
 
- <img width="252" alt="Screenshot 2024-07-19 at 9 10 18 PM" src="https://github.com/user-attachments/assets/8eacbfa3-4fd5-4a24-a386-694ba00d4463">
+ <img width="252" alt="Screenshot 2024-07-19 at 9 10 18 PM" src="https://github.com/user-attachments/assets/8eacbfa3-4fd5-4a24-a386-694ba00d4463">  <img width="254" alt="Screenshot 2024-07-19 at 9 10 49 PM" src="https://github.com/user-attachments/assets/59b9b263-ce0b-452d-8b11-84a6029386fe"> <img width="247" alt="Screenshot 2024-07-19 at 9 11 02 PM" src="https://github.com/user-attachments/assets/648553a0-a47b-42f9-ae2d-9c7ea0f88414"> <img width="246" alt="Screenshot 2024-07-19 at 9 11 21 PM" src="https://github.com/user-attachments/assets/e88fe009-544e-4a81-866e-b3e86ec05e1e">
