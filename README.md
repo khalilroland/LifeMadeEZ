@@ -107,3 +107,5 @@ As you complete them, you can check them off and when you are done with your tas
 If you need help with anything pertaining to the app, reach us at lifeMadeEZ@gmail.com! 
 
  # LifeMadeEZ
+
+ <img width="252" alt="Screenshot 2024-07-19 at 9 10 18 PM" src="https://github.com/user-attachments/assets/8eacbfa3-4fd5-4a24-a386-694ba00d4463">
